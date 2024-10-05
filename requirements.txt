@@ -6,3 +6,6 @@ pytz
 pandas
 yfinance
 matplotlib
+requests
+fastapi
+uvicorn[standard]

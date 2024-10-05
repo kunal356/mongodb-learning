@@ -3,3 +3,4 @@ motor
 ipykernel
 numpy
 pytz
+pandas
